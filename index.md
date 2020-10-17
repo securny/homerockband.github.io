@@ -36,4 +36,6 @@
 
 * Spotify: [https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e](https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e)
 
+* Вконтакте: [https://vk.com/artist/homerock_mtu5mjywmzi0mq](https://vk.com/artist/homerock_mtu5mjywmzi0mq)
+
 * Deezer: [https://www.deezer.com/ru/track/996627342?autoplay=true](https://www.deezer.com/ru/track/996627342?autoplay=true)
