@@ -35,3 +35,5 @@
 * Deezer: https://www.deezer.com/ru/track/996627342?autoplay=true
 
 * Itunes: https://music.apple.com/ru/album/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%81%D1%8F-single/1519086313?l=en
+
+* Spotify: https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e
