@@ -1,10 +1,10 @@
 Привет! Мы – группа Homerock.
 
-* Youtube: https://www.youtube.com/channel/UCBBFFq29QE1bx2tGqL8pWQw
+* Youtube: [https://www.youtube.com/channel/UCBBFFq29QE1bx2tGqL8pWQw](https://www.youtube.com/channel/UCBBFFq29QE1bx2tGqL8pWQw)
 
-* Instagram: http://instagram.com/homerockband/
+* Instagram: [http://instagram.com/homerockband/](http://instagram.com/homerockband/)
 
-* Вконтакте: https://vk.com/hmrck
+* Вконтакте: [https://vk.com/hmrck](https://vk.com/hmrck)
 
 
 
@@ -22,18 +22,18 @@
 
 
 
-Наш клип:
+Наш сингл:
 
-* [![HomeRock – Когда закончится](https://img.youtube.com/vi/Ny9hPzKbce8/0.jpg)](https://www.youtube.com/watch?v=Ny9hPzKbce8)
+* Клип на Youtube: [![HomeRock – Когда закончится](https://img.youtube.com/vi/Ny9hPzKbce8/0.jpg)](https://www.youtube.com/watch?v=Ny9hPzKbce8)
 
-* Youtube Music: https://music.youtube.com/watch?v=mLwHkQ6QroU
+* Youtube Music: [https://music.youtube.com/watch?v=mLwHkQ6QroU](https://music.youtube.com/watch?v=mLwHkQ6QroU)
 
-* Яндекс.Музыка https://music.yandex.ru/album/11129800/track/67624850
+* Яндекс.Музыка [https://music.yandex.ru/album/11129800/track/67624850](https://music.yandex.ru/album/11129800/track/67624850)
 
-* Amazon: https://music.amazon.com/albums/B08C2BBHKR
+* Amazon: [https://music.amazon.com/albums/B08C2BBHKR](https://music.amazon.com/albums/B08C2BBHKR)
 
-* Deezer: https://www.deezer.com/ru/track/996627342?autoplay=true
+* Itunes: [https://music.apple.com/ru/album/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%81%D1%8F-single/1519086313?l=en](https://music.apple.com/ru/album/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%81%D1%8F-single/1519086313?l=en)
 
-* Itunes: https://music.apple.com/ru/album/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%81%D1%8F-single/1519086313?l=en
+* Spotify: [https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e](https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e)
 
-* Spotify: https://open.spotify.com/album/4egGTkSPuFEwiJJmM4kl3e
+* Deezer: [https://www.deezer.com/ru/track/996627342?autoplay=true](https://www.deezer.com/ru/track/996627342?autoplay=true)
